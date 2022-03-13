@@ -4,7 +4,7 @@
 
 ## Live Link
 
-- [Heroku](https://lit-ridge-01801.herokuapp.com/)
+- [Heroku]()
 
 ## Video
 
@@ -16,10 +16,6 @@
 - Ruby on Rails
 - Postgresql
 - Bootstrap
-
-## Entity Relationship Diagram
-
-![screenshot](./app/assets/images/erd_diagram.png)
 
 ## Getting Started
 
@@ -34,10 +30,10 @@
 - Make sure you have Ruby on Rails set up properly on your computer
 
 ``` sh 
-  git git@github.com:ridaarif98/Budget-app.git
+  git git@github.com:sja-thedude/Budget-App.git
 ``` 
 ``` sh 
-  cd Budget-app
+  cd Budget-App
 ```
 
 ### Install
@@ -74,17 +70,17 @@ To start Budget app you need to first `signup`
 
 ## Author
 
-👤 **Rida Arif**
+👤 **Syeda Juveria Afreen**
 
-- GitHub: [@ridaarif98](https://github.com/ridaarif98)
-- Twitter: [@ridaarif](https://twitter.com/Rida29984906)
-- LinkedIn: [Rida Arif](https://www.linkedin.com/in/rida-arif-90945520b/)
+- GitHub: [@sja-thedude]()
+- Twitter: [@sja_thedude]()
+- LinkedIn: [Syeda Juveria Afreen]()
 
 ## 🤝 Contributing
 
 Contributions, issues, and feature requests are welcome!
 
-- Feel free to check the [issues page](https://github.com/ridaarif98/Budget-app/issues).
+- Feel free to check the [issues page](https://github.com/sja-thedude/Budget-App/issues).
 
 ## Show your support
 
