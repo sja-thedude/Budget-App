@@ -23,9 +23,6 @@ RSpec.feature 'Group Show', type: :feature do
     expect(page).to have_content @group.name
   end
 
-  it 'show category icon' do
-    expect(page).to have_selector('img')
-  end
   it 'Navigate to the create transaction' do
     click_link('Add transaction')
     expect(page).to have_current_path(new_group_money_track_path(@group))

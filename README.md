@@ -1,14 +1,14 @@
 # Budget App
 
-> A mobile web application where a user manage its budget: have a list of transactions associated with a category, so that the user can see how much money it spent and on what.
+> This project is created as part of the rails capstone at Microverse. This app is a mobile web application where a user manage its budget: have a list of transactions associated with a category, so that the user can see how much money it spent and on what.
 
 ## Live Link
 
-- [Heroku]()
+- [Heroku](https://lit-ridge-01801.herokuapp.com/)
 
 ## Video
 
-- [Video]()
+- [Video](https://www.loom.com/share/c0f9c400731f4f0e8d37a904806ff1ac)
 
 ## Built With
 

@@ -19,7 +19,7 @@ class MoneyTracksController < ApplicationController
     @money_track = MoneyTrack.find(params[:id])
     authorize! :destroy, @money_track
     flash[:notice] = if @money_track.destroy
-                       'Food is removed successfully'
+                       'Transaction removed successfully'
                      else
                        'Something went wrong'
                      end

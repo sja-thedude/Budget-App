@@ -14,8 +14,8 @@ RSpec.feature 'Group Index', type: :feature do
     expect(page).to have_current_path(root_path)
   end
 
-  it 'show Catgories heading' do
-    expect(page).to have_content 'Catgories'
+  it 'show Categories heading' do
+    expect(page).to have_content 'Categories'
   end
 
   it 'show category name' do
