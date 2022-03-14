@@ -72,9 +72,9 @@ To start Budget app you need to first `signup`
 
 👤 **Syeda Juveria Afreen**
 
-- GitHub: [@sja-thedude]()
-- Twitter: [@sja_thedude]()
-- LinkedIn: [Syeda Juveria Afreen]()
+- GitHub: [@sja-thedude](https://github.com/sja-thedude)
+- Twitter: [@sja_thedude](https://twitter.com/sja_thedude)
+- LinkedIn: [Syeda Juveria Afreen](https://linkedin.com/in/sja-thedude)
 
 ## 🤝 Contributing
 
@@ -82,6 +82,11 @@ Contributions, issues, and feature requests are welcome!
 
 - Feel free to check the [issues page](https://github.com/sja-thedude/Budget-App/issues).
 
+## Acknowledgements
+
+- I would like to thank my code reviewers for their valuable feedback.
+- I would like to thank my learning partners and morning session members for their support.
+
 ## Show your support
 
-- Give a ⭐️ if you like this project!
+Give a ⭐️ if you like this project!

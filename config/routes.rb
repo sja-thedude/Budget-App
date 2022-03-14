@@ -8,6 +8,8 @@ Rails.application.routes.draw do
 
   root 'groups#index', as: "moneytrack"
 
+  resources :users
+
   resources :groups, only: [:index, :show, :new, :create, :destroy] do
     resources :money_tracks, only: [ :new, :show, :create, :destroy]
   end
